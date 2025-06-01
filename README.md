@@ -1,0 +1,2 @@
+
+                        The goal of Power Bi dashboard is to visually analyse data of job portal website interactively and efficiently. This helps us to understand the job patterns, openings, candidate details, performance etc. Analyse how job seekers and recruiters interact with the platform. Identify popular job categories, locations, and usage times. Enable the team to analyse and make changes according to that.
